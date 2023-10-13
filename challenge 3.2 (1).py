@@ -15,8 +15,8 @@ def sort_students(student_list):
 # Create a list of student objects
 students = [
     Student("aruna ", "A001", 3.9),
-    Student("Smiley", "A002", 3.7),
-    Student("aruna.j", "A003", 4.0),
+    Student("Amisha", "A002", 3.7),
+    Student("jenciya", "A003", 4.0),
     Student("Angry bird", "A004", 3.8)
 ]
 
